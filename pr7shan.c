@@ -66,7 +66,7 @@ if (choice == 0) {
 break;}
 switch(choice){
 case 1:
-    add();
+        add();
 	break;
 case 2:
 	sub();
@@ -78,10 +78,9 @@ case 4:
 	div();
 	break;
 case 5:
-    mod();
+        mod();
 	break;
 default:
 def();}
 }while(9);
-
 }
