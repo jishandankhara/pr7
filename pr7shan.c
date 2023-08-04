@@ -45,9 +45,8 @@ int p,q,r = 0;
 	scanf("%d",&q);
 r = p % q;
     printf("  Modulo of %d and %d is %d\n",p,q,r);
-}def()
-{printf("invalid choice , please enter right choice...");
-
+}def(){
+    printf("invalid choice , please enter right choice...");
 }
 main(){
 int i;
